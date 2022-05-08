@@ -1,2 +1,2 @@
 # reactud
-React Course
+React Course @ Udemy
